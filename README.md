@@ -1,5 +1,5 @@
 # Mouse-Move-Animation-using-HTML-CSS-and-Jquery
-a simple application the some concepts
+a simple application the some concepts.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/gOozQqx
 
